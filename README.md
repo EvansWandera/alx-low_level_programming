@@ -1,1 +1,1 @@
-C programming basics
+Basic commands for C
